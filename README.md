@@ -75,3 +75,5 @@ load net and rescore nbest list
 ```
 python lstm.py --load-net example.lstm-lm --nbest-rescore nbest.list --wip 0 --lmw 11
 ```
+
+#测试git
